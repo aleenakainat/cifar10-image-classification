@@ -68,7 +68,7 @@ Loss & Accuracy plots: training vs validation curves
 
 Below are some visual examples 
 
-![Loss Curve](sample_outputs/loss_curve.PNG)  
+![Loss Curve](sample_outputs/loss_curves.PNG)  
 ![Confusion Matrix](sample_outputs/confusion_matrix.PNG)  
 ![Sample Predictions](sample_outputs/sample_output_on_testing.PNG)  
 
