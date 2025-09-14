@@ -68,9 +68,9 @@ Loss & Accuracy plots: training vs validation curves
 
 Below are some visual examples (replace file names according to your repo structure):
 
-![Accuracy & Loss Plot](sample_outputs/accuracy_plot.png)  
-![Confusion Matrix](sample_outputs/confusion_matrix.png)  
-![Sample Predictions](sample_outputs/predictions.png)
+![Loss Curve](sample_outputs/loss%20curve.png)
+![Confusion Matrix](sample_outputs/confusion%20matrix.png)
+![Sample Output on Testing](sample_outputs/sample%20output%20on%20testing.png)
 
 ---
 
