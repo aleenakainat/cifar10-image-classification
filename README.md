@@ -52,7 +52,7 @@ Key parts:
 ## ⚙ Training Details
 
 - Training on CPU  
-- Number of epochs: **5** (you may increase later if time allows)  
+- Number of epochs: **15** (you may increase later if time allows)  
 - Batch size: 64  
 - Loss function: sparse categorical crossentropy  
 - Optimizer: Adam  
@@ -61,16 +61,17 @@ Key parts:
 
 ## 📈 Results & Visualizations
 
-Test Accuracy: *approximate value that your model got* (edit with your actual value)  
+Test Accuracy:  0.71  
 Loss & Accuracy plots: training vs validation curves  
 
 ### Sample Outputs
 
 Below are some visual examples 
 
-![Loss Curve](<sample_outputs/loss curve.png>)
-![Confusion Matrix](<sample_outputs/confusion matrix.png>)
-![Sample Output](<sample_outputs/sample output on testing.png>)
+![Loss Curve](sample_outputs/loss_curve.png)  
+![Confusion Matrix](sample_outputs/confusion_matrix.png)  
+![Sample Predictions](sample_outputs/sample_output_on_testing.png)  
+
 
 
 ---
